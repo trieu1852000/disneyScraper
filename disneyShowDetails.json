@@ -1,11 +1,10 @@
 [
     {
-        "Series Id": "4FuQufaZQMGH",
-        "Content ID": "b573b52f-d072-41e8-97cd-b91e57f93a47",
         "Series Full Title": "101 Dalmatian Street",
         "Release Date": "2018-12-14",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "0630b15c-6909-41e8-9c07-852fe3e51e8d",
                 "Episodes": [
                     {
@@ -73,12 +72,11 @@
         ]
     },
     {
-        "Series Id": "1ry2z2HF6ad9",
-        "Content ID": "742dce3d-cb85-4530-befb-f0118664172a",
         "Series Full Title": "101 Dalmatians (Series)",
         "Release Date": "1997-09-01",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "31c5e2ea-4972-4fff-9b8c-3ba9b2f71e92",
                 "Episodes": [
                     {
@@ -146,12 +144,11 @@
         ]
     },
     {
-        "Series Id": "5qalHg4aPKpv",
-        "Content ID": "0849f6d0-5a06-4462-a79d-9f0f4a28e5d2",
         "Series Full Title": "4Ever",
         "Release Date": "2023-10-11",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "a19e7418-ca99-4142-b4f9-726a289206d3",
                 "Episodes": [
                     {
@@ -179,12 +176,11 @@
         ]
     },
     {
-        "Series Id": "6JcIJJ2hqtFf",
-        "Content ID": "e545b3c2-d6aa-433c-9f90-9ca593d76771",
         "Series Full Title": "7 Toughest Days",
         "Release Date": "2023-02-07",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "d211e956-cb14-4060-bc55-26530796970b",
                 "Episodes": [
                     {
@@ -204,12 +200,11 @@
         ]
     },
     {
-        "Series Id": "1nWYwypT962P",
-        "Content ID": "7354c0b6-93db-4d32-b917-3c30f403b1a1",
         "Series Full Title": "8 Simple Rules",
         "Release Date": "2002-09-17",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "907e9eac-02a6-41ee-a0e7-de483b570a22",
                 "Episodes": [
                     {
@@ -275,6 +270,7 @@
                 ]
             },
             {
+                "Season Number": 2,
                 "Season ID": "652eba33-d7f4-4ca0-b364-f0c25719a2de",
                 "Episodes": [
                     {
@@ -342,12 +338,11 @@
         ]
     },
     {
-        "Series Id": "41FqA5QQbU2f",
-        "Content ID": "48187a04-688a-47d0-8267-738422f41fe6",
         "Series Full Title": "80s Top Ten",
         "Release Date": "2022-01-01",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "daafdd56-0459-4b60-9706-bc2952c1024f",
                 "Episodes": [
                     {
@@ -379,12 +374,11 @@
         ]
     },
     {
-        "Series Id": "48JNFzTeAhJO",
-        "Content ID": "f6645768-9a76-45aa-8d90-75ba11210420",
         "Series Full Title": "9/11: One Day in America",
         "Release Date": "2021-08-29",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "cdb4f8e9-62cc-450d-aece-e942531b0be3",
                 "Episodes": [
                     {
@@ -416,12 +410,11 @@
         ]
     },
     {
-        "Series Id": "5SHN2ZbYQXtL",
-        "Content ID": "34dc79a5-b652-40e1-a512-7f24c2aecfd8",
         "Series Full Title": "A Small Light",
         "Release Date": "2023-05-01",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "9212d631-0e9a-45b4-829f-758c94179e49",
                 "Episodes": [
                     {
@@ -461,12 +454,11 @@
         ]
     },
     {
-        "Series Id": "6VhHIPXTucfT",
-        "Content ID": "ef4b218d-28d2-498d-bfbb-f50606abea72",
         "Series Full Title": "A.N.T. Farm",
         "Release Date": "2011-05-06",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "b6ca2f3a-673b-49b9-bec7-76ae6114a391",
                 "Episodes": [
                     {
@@ -532,6 +524,7 @@
                 ]
             },
             {
+                "Season Number": 2,
                 "Season ID": "590c8b51-570d-4c13-ae3b-0141f5a1456f",
                 "Episodes": [
                     {
@@ -597,6 +590,7 @@
                 ]
             },
             {
+                "Season Number": 3,
                 "Season ID": "2c796f59-f81c-4d94-8596-d7e2e56f3430",
                 "Episodes": [
                     {
@@ -664,12 +658,11 @@
         ]
     },
     {
-        "Series Id": "RaPOD0vJ5k5i",
-        "Content ID": "57969cb3-e2a3-4972-b328-7bb840e8231c",
         "Series Full Title": "Adventures in Wonderland",
         "Release Date": "1992-03-02",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "d8c0b58e-fda2-4cbd-a14b-6ade379d97ca",
                 "Episodes": [
                     {
@@ -737,12 +730,11 @@
         ]
     },
     {
-        "Series Id": "7LOuNeJN0FXz",
-        "Content ID": "2c2ba678-d464-457f-a37b-41e3b7770e1f",
         "Series Full Title": "The Adventures of Spin and Marty",
         "Release Date": "1955-11-07",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "33664f96-d4aa-4415-b9a9-66b154fe3d2d",
                 "Episodes": [
                     {
@@ -810,12 +802,11 @@
         ]
     },
     {
-        "Series Id": "5fsfHK1wWJSE",
-        "Content ID": "05bfd639-ba61-40b4-9fc4-637c2d4ed5aa",
         "Series Full Title": "Adventures Of The Gummi Bears",
         "Release Date": "1985-09-14",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "02f1f50d-5bf6-47ad-8705-78a1d157426f",
                 "Episodes": [
                     {
@@ -873,6 +864,7 @@
                 ]
             },
             {
+                "Season Number": 2,
                 "Season ID": "127e2e5f-d467-4b03-82db-6cbd7fa40c39",
                 "Episodes": [
                     {
@@ -910,6 +902,7 @@
                 ]
             },
             {
+                "Season Number": 3,
                 "Season ID": "1095d511-e51e-4141-8483-8e5178bfd397",
                 "Episodes": [
                     {
@@ -947,6 +940,7 @@
                 ]
             },
             {
+                "Season Number": 4,
                 "Season ID": "77df649e-0d07-4aeb-a7a4-f4960198fcf4",
                 "Episodes": [
                     {
@@ -992,6 +986,7 @@
                 ]
             },
             {
+                "Season Number": 5,
                 "Season ID": "1dc85f20-bd54-4f9f-8cba-045dbb2c647d",
                 "Episodes": [
                     {
@@ -1029,6 +1024,7 @@
                 ]
             },
             {
+                "Season Number": 6,
                 "Season ID": "f9ce273b-783b-45ea-a5b5-90841c540caa",
                 "Episodes": [
                     {
@@ -1096,12 +1092,11 @@
         ]
     },
     {
-        "Series Id": "1MKLp7swNon6",
-        "Content ID": "117810fe-41b7-4a8b-8dfa-ef6b31184275",
         "Series Full Title": "The Adventures of Young Indiana Jones",
         "Release Date": "2007-10-23",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "b2ff6bfc-05ce-41cf-b337-a0fdf8f1b52b",
                 "Episodes": [
                     {
@@ -1169,12 +1164,11 @@
         ]
     },
     {
-        "Series Id": "mA0me8AeXezf",
-        "Content ID": "8a7d0467-387d-4e55-b7d4-d95049687dd8",
         "Series Full Title": "Africa's Deadliest",
         "Release Date": "2011-10-25",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "b571ce3d-fb50-4a09-950c-bb35cf887d41",
                 "Episodes": [
                     {
@@ -1192,6 +1186,7 @@
                 ]
             },
             {
+                "Season Number": 2,
                 "Season ID": "2b97d02c-5ac1-4272-aaaa-66310c67dcf9",
                 "Episodes": [
                     {
@@ -1209,6 +1204,7 @@
                 ]
             },
             {
+                "Season Number": 3,
                 "Season ID": "f16c498f-f322-4f16-83ba-120c1f86d974",
                 "Episodes": [
                     {
@@ -1238,6 +1234,7 @@
                 ]
             },
             {
+                "Season Number": 4,
                 "Season ID": "03058afe-cfff-4ec2-b088-4af512444cb1",
                 "Episodes": [
                     {
@@ -1257,12 +1254,11 @@
         ]
     },
     {
-        "Series Id": "3rh3uclvsNsT",
-        "Content ID": "9353f975-f83d-405f-b6ff-c60e4bcec140",
         "Series Full Title": "Agent Carter",
         "Release Date": "2015-01-06",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "f4695d0e-17d9-4cb2-93d9-30f06882c74b",
                 "Episodes": [
                     {
@@ -1300,6 +1296,7 @@
                 ]
             },
             {
+                "Season Number": 2,
                 "Season ID": "5da58a30-48b6-491d-ba1a-f388f0e2f57d",
                 "Episodes": [
                     {
@@ -1347,12 +1344,11 @@
         ]
     },
     {
-        "Series Id": "2UT4VQrwpVgi",
-        "Content ID": "86bf11e6-5c52-4db6-89a4-66682fed9644",
         "Series Full Title": "Agents of S.H.I.E.L.D.",
         "Release Date": "2013-09-24",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "bb257f29-420a-44de-8598-58011533f14a",
                 "Episodes": [
                     {
@@ -1418,6 +1414,7 @@
                 ]
             },
             {
+                "Season Number": 2,
                 "Season ID": "0c2ee688-aba8-466f-b138-30df584d3521",
                 "Episodes": [
                     {
@@ -1483,6 +1480,7 @@
                 ]
             },
             {
+                "Season Number": 3,
                 "Season ID": "3cf45b37-abf6-4114-8562-6c1b3d39eaff",
                 "Episodes": [
                     {
@@ -1548,6 +1546,7 @@
                 ]
             },
             {
+                "Season Number": 4,
                 "Season ID": "75f4c2f5-3dcc-4f08-ad39-145f9b1da230",
                 "Episodes": [
                     {
@@ -1613,6 +1612,7 @@
                 ]
             },
             {
+                "Season Number": 5,
                 "Season ID": "3a73fc58-d5ca-4ecd-9ee2-24e40f25d71a",
                 "Episodes": [
                     {
@@ -1678,6 +1678,7 @@
                 ]
             },
             {
+                "Season Number": 6,
                 "Season ID": "a58ab6e2-4ed8-47f6-bb9d-2772e5c4747a",
                 "Episodes": [
                     {
@@ -1735,6 +1736,7 @@
                 ]
             },
             {
+                "Season Number": 7,
                 "Season ID": "1827e430-7395-4c0d-80e8-7831b87aec8d",
                 "Episodes": [
                     {
@@ -1794,12 +1796,11 @@
         ]
     },
     {
-        "Series Id": "pdpjs2TO4zJ4",
-        "Content ID": "f651f29f-adf9-46ed-b7ee-4543d274c078",
         "Series Full Title": "Ahsoka",
         "Release Date": "2023-08-22",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "a86aa555-5de3-402f-8c1a-e993c1cd2c3e",
                 "Episodes": [
                     {
@@ -1839,12 +1840,11 @@
         ]
     },
     {
-        "Series Id": "4r1vwB6EQKyJ",
-        "Content ID": "4d207d2d-b219-4817-ae52-71515d18c84f",
         "Series Full Title": "Airport Security",
         "Release Date": "2016-06-07",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "f5a1eef5-8d28-4487-bca0-7b5751230f93",
                 "Episodes": [
                     {
@@ -1874,6 +1874,7 @@
                 ]
             },
             {
+                "Season Number": 2,
                 "Season ID": "8656d855-c04e-4d1c-9216-57dad35ef109",
                 "Episodes": [
                     {
@@ -1915,6 +1916,7 @@
                 ]
             },
             {
+                "Season Number": 3,
                 "Season ID": "e780cd8d-a9fa-4aea-9a6b-66550207cd33",
                 "Episodes": [
                     {
@@ -1980,6 +1982,7 @@
                 ]
             },
             {
+                "Season Number": 4,
                 "Season ID": "89574ab4-a8c2-480f-9472-84ccba650c8b",
                 "Episodes": [
                     {
@@ -2017,6 +2020,7 @@
                 ]
             },
             {
+                "Season Number": 5,
                 "Season ID": "3aa27ceb-883f-42aa-92b7-3bcbd6ffbcbe",
                 "Episodes": [
                     {
@@ -2038,6 +2042,7 @@
                 ]
             },
             {
+                "Season Number": 6,
                 "Season ID": "09e511c5-885f-443b-a19e-ae78b36449c7",
                 "Episodes": [
                     {
@@ -2075,6 +2080,7 @@
                 ]
             },
             {
+                "Season Number": 7,
                 "Season ID": "36079da8-08a6-427c-91c8-f48e43c45b5c",
                 "Episodes": [
                     {
@@ -2112,6 +2118,7 @@
                 ]
             },
             {
+                "Season Number": 8,
                 "Season ID": "4fd9ff4a-a79d-4386-87a3-3fb73082241a",
                 "Episodes": [
                     {
@@ -2147,12 +2154,11 @@
         ]
     },
     {
-        "Series Id": "1xVGbPI8jyGQ",
-        "Content ID": "4ba949cb-741f-4690-8761-a76e32ed749e",
         "Series Full Title": "Alaska Animal Rescue",
         "Release Date": "2020-04-11",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "d817f621-2544-48d7-b7f4-ed270890c393",
                 "Episodes": [
                     {
@@ -2182,6 +2188,7 @@
                 ]
             },
             {
+                "Season Number": 2,
                 "Season ID": "1bc6c00d-60ea-48d3-9766-3824d1bc9410",
                 "Episodes": [
                     {
@@ -2221,12 +2228,11 @@
         ]
     },
     {
-        "Series Id": "7fN8T4Ntevkp",
-        "Content ID": "4d2affac-a58e-47f9-81a1-4f066816408a",
         "Series Full Title": "Alaska's Deadliest",
         "Release Date": "2018-04-27",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "35549ddc-4048-427f-8e87-5541831ee965",
                 "Episodes": [
                     {
@@ -2242,12 +2248,11 @@
         ]
     },
     {
-        "Series Id": "69cA63JcbB4Q",
-        "Content ID": "0db1071d-9a2b-4e21-9c25-43c509a58ded",
         "Series Full Title": "Alaska's Grizzly Gauntlet",
         "Release Date": "2018-04-27",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "45960ca5-e81c-48c8-bea8-e2ee9464cb6f",
                 "Episodes": [
                     {
@@ -2275,12 +2280,11 @@
         ]
     },
     {
-        "Series Id": "6vab1bTwH0gG",
-        "Content ID": "a520c257-c69a-4202-ab25-d22e6e5302e9",
         "Series Full Title": "Alex & Co.",
         "Release Date": "2015-05-11",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "eb31762f-59af-4b7a-b30c-74bacbf6626d",
                 "Episodes": [
                     {
@@ -2338,6 +2342,7 @@
                 ]
             },
             {
+                "Season Number": 2,
                 "Season ID": "5faf5d50-a0bf-4ce3-980e-6458c7f6eb70",
                 "Episodes": [
                     {
@@ -2403,6 +2408,7 @@
                 ]
             },
             {
+                "Season Number": 3,
                 "Season ID": "0301366c-1f2a-4a16-86e3-8bf25ddda2d2",
                 "Episodes": [
                     {
@@ -2470,12 +2476,11 @@
         ]
     },
     {
-        "Series Id": "1DSYS0dt6l1q",
-        "Content ID": "9e117365-46e9-4971-b997-637fd306ec46",
         "Series Full Title": "Alias",
         "Release Date": "2001-09-30",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "81cd2925-a5b7-49b5-8296-ae8dfdd66423",
                 "Episodes": [
                     {
@@ -2541,6 +2546,7 @@
                 ]
             },
             {
+                "Season Number": 2,
                 "Season ID": "66a40b17-39e5-4b84-939d-bb8dae86d329",
                 "Episodes": [
                     {
@@ -2606,6 +2612,7 @@
                 ]
             },
             {
+                "Season Number": 3,
                 "Season ID": "2e847dec-ec26-41f0-b19c-ecdc2379e528",
                 "Episodes": [
                     {
@@ -2671,6 +2678,7 @@
                 ]
             },
             {
+                "Season Number": 4,
                 "Season ID": "738e78c0-1e4f-4b5a-85ec-050addcec8fe",
                 "Episodes": [
                     {
@@ -2736,6 +2744,7 @@
                 ]
             },
             {
+                "Season Number": 5,
                 "Season ID": "24424e89-d51c-4de4-97ab-ac844e6a2398",
                 "Episodes": [
                     {
@@ -2803,12 +2812,11 @@
         ]
     },
     {
-        "Series Id": "6WQ9PvGPOYhE",
-        "Content ID": "6b42020a-e8fd-44b2-a9c2-6b882e7a09b3",
         "Series Full Title": "Alice's Wonderland Bakery",
         "Release Date": "2022-02-09",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "f7788c89-11f2-4d81-89b4-510b98d83c5f",
                 "Episodes": [
                     {
@@ -2874,6 +2882,7 @@
                 ]
             },
             {
+                "Season Number": 2,
                 "Season ID": "54e6b8db-eca7-4060-9b9d-22aa7fcfa0e1",
                 "Episodes": [
                     {
@@ -2937,12 +2946,11 @@
         ]
     },
     {
-        "Series Id": "4x1DDrRZtcNc",
-        "Content ID": "a9cd2190-3595-4bcf-ae54-978e3717aead",
         "Series Full Title": "All the Same… or Not",
         "Release Date": "2022-05-25",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "b38a0774-e99c-4593-9f89-c9ba81553a9d",
                 "Episodes": [
                     {
@@ -2988,6 +2996,7 @@
                 ]
             },
             {
+                "Season Number": 2,
                 "Season ID": "23ac5e32-0ebf-4a73-8217-5b8152197f20",
                 "Episodes": [
                     {
@@ -3027,12 +3036,11 @@
         ]
     },
     {
-        "Series Id": "7D1239OxXWOV",
-        "Content ID": "d2f888f6-88ad-49ba-925e-4ce29d991cbf",
         "Series Full Title": "America's Funniest Home Videos",
         "Release Date": "1989-01-14",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "f7804023-c141-4d7e-9a03-14db5178424b",
                 "Episodes": [
                     {
@@ -3098,6 +3106,7 @@
                 ]
             },
             {
+                "Season Number": 2,
                 "Season ID": "f02279c6-0cbf-4829-bcfa-4f4eb31662c7",
                 "Episodes": [
                     {
@@ -3163,6 +3172,7 @@
                 ]
             },
             {
+                "Season Number": 3,
                 "Season ID": "ce43db28-df40-4061-83bb-530a816a41c9",
                 "Episodes": [
                     {
@@ -3230,12 +3240,11 @@
         ]
     },
     {
-        "Series Id": "5j3dPGDHSsp1",
-        "Content ID": "73f2c69b-5582-4ca8-97c1-9e0a069e7f01",
         "Series Full Title": "America's Funniest Home Videos: Animal Edition",
         "Release Date": "2021-06-11",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "78c227f1-9936-4a77-b388-6453b1fa65d0",
                 "Episodes": [
                     {
@@ -3289,6 +3298,7 @@
                 ]
             },
             {
+                "Season Number": 2,
                 "Season ID": "d2a910c9-7e85-44cf-a423-0578b81c3134",
                 "Episodes": [
                     {
@@ -3344,12 +3354,11 @@
         ]
     },
     {
-        "Series Id": "J91rVknBNBIG",
-        "Content ID": "a27d5c86-372e-4def-83dd-080e7265a70f",
         "Series Full Title": "America's National Parks",
         "Release Date": "2022-08-29",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "a3d1472a-c177-404a-8729-1e29d6e67e18",
                 "Episodes": [
                     {
@@ -3375,6 +3384,7 @@
                 ]
             },
             {
+                "Season Number": 2,
                 "Season ID": "ee6f63b3-1e7b-4038-bb6f-0e8c328c125b",
                 "Episodes": [
                     {
@@ -3402,12 +3412,11 @@
         ]
     },
     {
-        "Series Id": "6GlF9SZKAdYz",
-        "Content ID": "05e8c523-8162-4567-a3a8-ea4875c5cb40",
         "Series Full Title": "America's National Parks (Classic)",
         "Release Date": "2015-12-06",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "b2632c84-c45e-4e61-9a02-ffda50447c02",
                 "Episodes": [
                     {
@@ -3447,12 +3456,11 @@
         ]
     },
     {
-        "Series Id": "7ioMVSaWwKh4",
-        "Content ID": "27b116e0-2437-4694-87e0-5a52f0d31a87",
         "Series Full Title": "American Born Chinese",
         "Release Date": "2023-05-24",
         "Seasons": [
             {
+                "Season Number": 1,
                 "Season ID": "f1e99e8f-34d5-4653-ab6a-6b8151649716",
                 "Episodes": [
                     {
