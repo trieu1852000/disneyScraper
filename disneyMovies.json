@@ -1,0 +1,602 @@
+[
+  {
+    "Content ID": "b573b52f-d072-41e8-97cd-b91e57f93a47",
+    "Series Full Title": "101 Dalmatian Street",
+    "Release Date": "2018-12-14"
+  },
+  {
+    "Content ID": "742dce3d-cb85-4530-befb-f0118664172a",
+    "Series Full Title": "101 Dalmatians (Series)",
+    "Release Date": "1997-09-01"
+  },
+  {
+    "Content ID": "0849f6d0-5a06-4462-a79d-9f0f4a28e5d2",
+    "Series Full Title": "4Ever",
+    "Release Date": "2023-10-11"
+  },
+  {
+    "Content ID": "e545b3c2-d6aa-433c-9f90-9ca593d76771",
+    "Series Full Title": "7 Toughest Days",
+    "Release Date": "2023-02-07"
+  },
+  {
+    "Content ID": "7354c0b6-93db-4d32-b917-3c30f403b1a1",
+    "Series Full Title": "8 Simple Rules",
+    "Release Date": "2002-09-17"
+  },
+  {
+    "Content ID": "48187a04-688a-47d0-8267-738422f41fe6",
+    "Series Full Title": "80s Top Ten",
+    "Release Date": "2022-01-01"
+  },
+  {
+    "Content ID": "f6645768-9a76-45aa-8d90-75ba11210420",
+    "Series Full Title": "9/11: One Day in America",
+    "Release Date": "2021-08-29"
+  },
+  {
+    "Content ID": "34dc79a5-b652-40e1-a512-7f24c2aecfd8",
+    "Series Full Title": "A Small Light",
+    "Release Date": "2023-05-01"
+  },
+  {
+    "Content ID": "ef4b218d-28d2-498d-bfbb-f50606abea72",
+    "Series Full Title": "A.N.T. Farm",
+    "Release Date": "2011-05-06"
+  },
+  {
+    "Content ID": "57969cb3-e2a3-4972-b328-7bb840e8231c",
+    "Series Full Title": "Adventures in Wonderland",
+    "Release Date": "1992-03-02"
+  },
+  {
+    "Content ID": "2c2ba678-d464-457f-a37b-41e3b7770e1f",
+    "Series Full Title": "The Adventures of Spin and Marty",
+    "Release Date": "1955-11-07"
+  },
+  {
+    "Content ID": "05bfd639-ba61-40b4-9fc4-637c2d4ed5aa",
+    "Series Full Title": "Adventures Of The Gummi Bears",
+    "Release Date": "1985-09-14"
+  },
+  {
+    "Content ID": "117810fe-41b7-4a8b-8dfa-ef6b31184275",
+    "Series Full Title": "The Adventures of Young Indiana Jones",
+    "Release Date": "2007-10-23"
+  },
+  {
+    "Content ID": "8a7d0467-387d-4e55-b7d4-d95049687dd8",
+    "Series Full Title": "Africa's Deadliest",
+    "Release Date": "2011-10-25"
+  },
+  {
+    "Content ID": "9353f975-f83d-405f-b6ff-c60e4bcec140",
+    "Series Full Title": "Agent Carter",
+    "Release Date": "2015-01-06"
+  },
+  {
+    "Content ID": "86bf11e6-5c52-4db6-89a4-66682fed9644",
+    "Series Full Title": "Agents of S.H.I.E.L.D.",
+    "Release Date": "2013-09-24"
+  },
+  {
+    "Content ID": "f651f29f-adf9-46ed-b7ee-4543d274c078",
+    "Series Full Title": "Ahsoka",
+    "Release Date": "2023-08-22"
+  },
+  {
+    "Content ID": "4d207d2d-b219-4817-ae52-71515d18c84f",
+    "Series Full Title": "Airport Security",
+    "Release Date": "2016-06-07"
+  },
+  {
+    "Content ID": "4ba949cb-741f-4690-8761-a76e32ed749e",
+    "Series Full Title": "Alaska Animal Rescue",
+    "Release Date": "2020-04-11"
+  },
+  {
+    "Content ID": "4d2affac-a58e-47f9-81a1-4f066816408a",
+    "Series Full Title": "Alaska's Deadliest",
+    "Release Date": "2018-04-27"
+  },
+  {
+    "Content ID": "0db1071d-9a2b-4e21-9c25-43c509a58ded",
+    "Series Full Title": "Alaska's Grizzly Gauntlet",
+    "Release Date": "2018-04-27"
+  },
+  {
+    "Content ID": "a520c257-c69a-4202-ab25-d22e6e5302e9",
+    "Series Full Title": "Alex & Co.",
+    "Release Date": "2015-05-11"
+  },
+  {
+    "Content ID": "9e117365-46e9-4971-b997-637fd306ec46",
+    "Series Full Title": "Alias",
+    "Release Date": "2001-09-30"
+  },
+  {
+    "Content ID": "6b42020a-e8fd-44b2-a9c2-6b882e7a09b3",
+    "Series Full Title": "Alice's Wonderland Bakery",
+    "Release Date": "2022-02-09"
+  },
+  {
+    "Content ID": "a9cd2190-3595-4bcf-ae54-978e3717aead",
+    "Series Full Title": "All the Same… or Not",
+    "Release Date": "2022-05-25"
+  },
+  {
+    "Content ID": "d2f888f6-88ad-49ba-925e-4ce29d991cbf",
+    "Series Full Title": "America's Funniest Home Videos",
+    "Release Date": "1989-01-14"
+  },
+  {
+    "Content ID": "73f2c69b-5582-4ca8-97c1-9e0a069e7f01",
+    "Series Full Title": "America's Funniest Home Videos: Animal Edition",
+    "Release Date": "2021-06-11"
+  },
+  {
+    "Content ID": "a27d5c86-372e-4def-83dd-080e7265a70f",
+    "Series Full Title": "America's National Parks",
+    "Release Date": "2022-08-29"
+  },
+  {
+    "Content ID": "05e8c523-8162-4567-a3a8-ea4875c5cb40",
+    "Series Full Title": "America's National Parks (Classic)",
+    "Release Date": "2015-12-06"
+  },
+  {
+    "Content ID": "27b116e0-2437-4694-87e0-5a52f0d31a87",
+    "Series Full Title": "American Born Chinese",
+    "Release Date": "2023-05-24"
+  },
+  {
+    "Content ID": "4e6f77f1-abf7-442f-a133-9993681f5be5",
+    "Series Full Title": "American Dragon: Jake Long",
+    "Release Date": "2005-01-21"
+  },
+  {
+    "Content ID": "a765a5ce-606d-44c3-83ec-5d74b2fba09b",
+    "Series Full Title": "Amphibia",
+    "Release Date": "2019-06-17"
+  },
+  {
+    "Content ID": "65372f6b-42c8-4cfb-b40c-8b8c54d64a2f",
+    "Series Full Title": "Ancient Aliens",
+    "Release Date": "2022-01-07"
+  },
+  {
+    "Content ID": "37e0ac4a-1ad2-4ea3-949c-b6e599f50942",
+    "Series Full Title": "Ancient China from Above",
+    "Release Date": "2020-08-11"
+  },
+  {
+    "Content ID": "3efe48ff-e522-4be3-bf30-9fdda3667786",
+    "Series Full Title": "ANCIENT X FILES",
+    "Release Date": "2012-04-04"
+  },
+  {
+    "Content ID": "daaa4af5-52e4-4e0a-af7e-f5bf5373c834",
+    "Series Full Title": "Andi Mack",
+    "Release Date": "2017-04-07"
+  },
+  {
+    "Content ID": "fcd2aa4c-c682-438c-8ff4-de6505cb3330",
+    "Series Full Title": "Animal ER",
+    "Release Date": "2016-09-10"
+  },
+  {
+    "Content ID": "4c4601eb-6074-480c-b121-0c2bf730405a",
+    "Series Full Title": "Animal Fight Night",
+    "Release Date": "2013-10-06"
+  },
+  {
+    "Content ID": "35aad06a-4838-4441-bc26-c9ab03adc9bb",
+    "Series Full Title": "Animal Showdown",
+    "Release Date": "2018-09-04"
+  },
+  {
+    "Content ID": "6c7fa2ce-9ec5-416a-a1d2-dd07f477b09d",
+    "Series Full Title": "Animals Up Close with Bertie Gregory",
+    "Release Date": "2023-09-13"
+  },
+  {
+    "Content ID": "6927ff12-542c-4a66-acf7-1de9086e0a85",
+    "Series Full Title": "Ant-Man (Shorts)",
+    "Release Date": "2017-06-10"
+  },
+  {
+    "Content ID": "4e5445ae-4a38-48a6-8dbd-96decc997f9b",
+    "Series Full Title": "Apollo: Back To The Moon",
+    "Release Date": "2019-07-09"
+  },
+  {
+    "Content ID": "66a73196-5fd3-4c30-b2bc-2351c9ca5846",
+    "Series Full Title": "Arranged",
+    "Release Date": "2015-04-14"
+  },
+  {
+    "Content ID": "43d289f4-dc8a-47df-8ab8-abbf540bef22",
+    "Series Full Title": "Aruna’s Magic",
+    "Release Date": "2023-11-29"
+  },
+  {
+    "Content ID": "cc6e2e07-2b1a-4d07-99b0-f7a64f36a748",
+    "Series Full Title": "Atlas of Cursed Places",
+    "Release Date": "2020-12-01"
+  },
+  {
+    "Content ID": "5dee325a-33f2-4ace-8f0e-38bb82f58d52",
+    "Series Full Title": "Austin & Ally",
+    "Release Date": "2011-12-02"
+  },
+  {
+    "Content ID": "515cf736-bd38-467e-8efb-aa069e3a5b13",
+    "Series Full Title": "Avengers Assemble",
+    "Release Date": "2013-05-26"
+  },
+  {
+    "Content ID": "9f194a86-8d94-47ea-b212-cf0d8a4edcde",
+    "Series Full Title": "The Avengers: Earth's Mightiest Heroes",
+    "Release Date": "2010-10-20"
+  },
+  {
+    "Content ID": "ba75c694-3a3f-4bf7-8287-643bca366680",
+    "Series Full Title": "Avengers: Secret Wars (Shorts)",
+    "Release Date": "2017-06-02"
+  },
+  {
+    "Content ID": "b29cb3b9-5109-4672-a32d-91bd02b75ac2",
+    "Series Full Title": "The Avengers: United They Stand",
+    "Release Date": "1999-10-30"
+  },
+  {
+    "Content ID": "0c314f03-0f06-4d81-b94c-3827305df272",
+    "Series Full Title": "Awesome Animals",
+    "Release Date": "2017-04-13"
+  },
+  {
+    "Content ID": "ca3d21ef-b1eb-4fa4-ab03-4d6f6341d2a6",
+    "Series Full Title": "Baymax Dreams",
+    "Release Date": "2018-09-29"
+  },
+  {
+    "Content ID": "380d1a56-1cc5-41a2-b398-668ae4f3c961",
+    "Series Full Title": "Baymax!",
+    "Release Date": "2022-06-29"
+  },
+  {
+    "Content ID": "c19092f0-5535-4285-ac22-e70a288891b5",
+    "Series Full Title": "Bear in the Big Blue House",
+    "Release Date": "1997-10-20"
+  },
+  {
+    "Content ID": "a08d1d58-d699-4499-8da8-2f84de0428ec",
+    "Series Full Title": "The Beatles: Get Back",
+    "Release Date": "2021-11-25"
+  },
+  {
+    "Content ID": "4a7525d4-c1d9-48ae-8371-6688b7e62832",
+    "Series Full Title": "Becoming",
+    "Release Date": "2020-09-18"
+  },
+  {
+    "Content ID": "ad70ecba-cbb3-4b22-ab54-73c4bccbac75",
+    "Series Full Title": "Behind the Attraction",
+    "Release Date": "2021-07-21"
+  },
+  {
+    "Content ID": "d59ed5e9-df8e-4362-94e2-0014ef8c9859",
+    "Series Full Title": "Best Friends Whenever",
+    "Release Date": "2015-06-26"
+  },
+  {
+    "Content ID": "5c6d604a-d9ec-4314-b184-7c7299e6e070",
+    "Series Full Title": "Best in Bridal",
+    "Release Date": "2014-09-02"
+  },
+  {
+    "Content ID": "6a87424f-a0fb-45a3-89b7-fb0cd539c1db",
+    "Series Full Title": "Best Job Ever",
+    "Release Date": "2018-08-02"
+  },
+  {
+    "Content ID": "b573b52f-d072-41e8-97cd-b91e57f93a47",
+    "Series Full Title": "101 Dalmatian Street",
+    "Release Date": "2018-12-14"
+  },
+  {
+    "Content ID": "742dce3d-cb85-4530-befb-f0118664172a",
+    "Series Full Title": "101 Dalmatians (Series)",
+    "Release Date": "1997-09-01"
+  },
+  {
+    "Content ID": "0849f6d0-5a06-4462-a79d-9f0f4a28e5d2",
+    "Series Full Title": "4Ever",
+    "Release Date": "2023-10-11"
+  },
+  {
+    "Content ID": "e545b3c2-d6aa-433c-9f90-9ca593d76771",
+    "Series Full Title": "7 Toughest Days",
+    "Release Date": "2023-02-07"
+  },
+  {
+    "Content ID": "7354c0b6-93db-4d32-b917-3c30f403b1a1",
+    "Series Full Title": "8 Simple Rules",
+    "Release Date": "2002-09-17"
+  },
+  {
+    "Content ID": "48187a04-688a-47d0-8267-738422f41fe6",
+    "Series Full Title": "80s Top Ten",
+    "Release Date": "2022-01-01"
+  },
+  {
+    "Content ID": "f6645768-9a76-45aa-8d90-75ba11210420",
+    "Series Full Title": "9/11: One Day in America",
+    "Release Date": "2021-08-29"
+  },
+  {
+    "Content ID": "34dc79a5-b652-40e1-a512-7f24c2aecfd8",
+    "Series Full Title": "A Small Light",
+    "Release Date": "2023-05-01"
+  },
+  {
+    "Content ID": "ef4b218d-28d2-498d-bfbb-f50606abea72",
+    "Series Full Title": "A.N.T. Farm",
+    "Release Date": "2011-05-06"
+  },
+  {
+    "Content ID": "57969cb3-e2a3-4972-b328-7bb840e8231c",
+    "Series Full Title": "Adventures in Wonderland",
+    "Release Date": "1992-03-02"
+  },
+  {
+    "Content ID": "2c2ba678-d464-457f-a37b-41e3b7770e1f",
+    "Series Full Title": "The Adventures of Spin and Marty",
+    "Release Date": "1955-11-07"
+  },
+  {
+    "Content ID": "05bfd639-ba61-40b4-9fc4-637c2d4ed5aa",
+    "Series Full Title": "Adventures Of The Gummi Bears",
+    "Release Date": "1985-09-14"
+  },
+  {
+    "Content ID": "117810fe-41b7-4a8b-8dfa-ef6b31184275",
+    "Series Full Title": "The Adventures of Young Indiana Jones",
+    "Release Date": "2007-10-23"
+  },
+  {
+    "Content ID": "8a7d0467-387d-4e55-b7d4-d95049687dd8",
+    "Series Full Title": "Africa's Deadliest",
+    "Release Date": "2011-10-25"
+  },
+  {
+    "Content ID": "9353f975-f83d-405f-b6ff-c60e4bcec140",
+    "Series Full Title": "Agent Carter",
+    "Release Date": "2015-01-06"
+  },
+  {
+    "Content ID": "86bf11e6-5c52-4db6-89a4-66682fed9644",
+    "Series Full Title": "Agents of S.H.I.E.L.D.",
+    "Release Date": "2013-09-24"
+  },
+  {
+    "Content ID": "f651f29f-adf9-46ed-b7ee-4543d274c078",
+    "Series Full Title": "Ahsoka",
+    "Release Date": "2023-08-22"
+  },
+  {
+    "Content ID": "4d207d2d-b219-4817-ae52-71515d18c84f",
+    "Series Full Title": "Airport Security",
+    "Release Date": "2016-06-07"
+  },
+  {
+    "Content ID": "4ba949cb-741f-4690-8761-a76e32ed749e",
+    "Series Full Title": "Alaska Animal Rescue",
+    "Release Date": "2020-04-11"
+  },
+  {
+    "Content ID": "4d2affac-a58e-47f9-81a1-4f066816408a",
+    "Series Full Title": "Alaska's Deadliest",
+    "Release Date": "2018-04-27"
+  },
+  {
+    "Content ID": "0db1071d-9a2b-4e21-9c25-43c509a58ded",
+    "Series Full Title": "Alaska's Grizzly Gauntlet",
+    "Release Date": "2018-04-27"
+  },
+  {
+    "Content ID": "a520c257-c69a-4202-ab25-d22e6e5302e9",
+    "Series Full Title": "Alex & Co.",
+    "Release Date": "2015-05-11"
+  },
+  {
+    "Content ID": "9e117365-46e9-4971-b997-637fd306ec46",
+    "Series Full Title": "Alias",
+    "Release Date": "2001-09-30"
+  },
+  {
+    "Content ID": "6b42020a-e8fd-44b2-a9c2-6b882e7a09b3",
+    "Series Full Title": "Alice's Wonderland Bakery",
+    "Release Date": "2022-02-09"
+  },
+  {
+    "Content ID": "a9cd2190-3595-4bcf-ae54-978e3717aead",
+    "Series Full Title": "All the Same… or Not",
+    "Release Date": "2022-05-25"
+  },
+  {
+    "Content ID": "d2f888f6-88ad-49ba-925e-4ce29d991cbf",
+    "Series Full Title": "America's Funniest Home Videos",
+    "Release Date": "1989-01-14"
+  },
+  {
+    "Content ID": "73f2c69b-5582-4ca8-97c1-9e0a069e7f01",
+    "Series Full Title": "America's Funniest Home Videos: Animal Edition",
+    "Release Date": "2021-06-11"
+  },
+  {
+    "Content ID": "a27d5c86-372e-4def-83dd-080e7265a70f",
+    "Series Full Title": "America's National Parks",
+    "Release Date": "2022-08-29"
+  },
+  {
+    "Content ID": "05e8c523-8162-4567-a3a8-ea4875c5cb40",
+    "Series Full Title": "America's National Parks (Classic)",
+    "Release Date": "2015-12-06"
+  },
+  {
+    "Content ID": "27b116e0-2437-4694-87e0-5a52f0d31a87",
+    "Series Full Title": "American Born Chinese",
+    "Release Date": "2023-05-24"
+  },
+  {
+    "Content ID": "4e6f77f1-abf7-442f-a133-9993681f5be5",
+    "Series Full Title": "American Dragon: Jake Long",
+    "Release Date": "2005-01-21"
+  },
+  {
+    "Content ID": "a765a5ce-606d-44c3-83ec-5d74b2fba09b",
+    "Series Full Title": "Amphibia",
+    "Release Date": "2019-06-17"
+  },
+  {
+    "Content ID": "65372f6b-42c8-4cfb-b40c-8b8c54d64a2f",
+    "Series Full Title": "Ancient Aliens",
+    "Release Date": "2022-01-07"
+  },
+  {
+    "Content ID": "37e0ac4a-1ad2-4ea3-949c-b6e599f50942",
+    "Series Full Title": "Ancient China from Above",
+    "Release Date": "2020-08-11"
+  },
+  {
+    "Content ID": "3efe48ff-e522-4be3-bf30-9fdda3667786",
+    "Series Full Title": "ANCIENT X FILES",
+    "Release Date": "2012-04-04"
+  },
+  {
+    "Content ID": "daaa4af5-52e4-4e0a-af7e-f5bf5373c834",
+    "Series Full Title": "Andi Mack",
+    "Release Date": "2017-04-07"
+  },
+  {
+    "Content ID": "fcd2aa4c-c682-438c-8ff4-de6505cb3330",
+    "Series Full Title": "Animal ER",
+    "Release Date": "2016-09-10"
+  },
+  {
+    "Content ID": "4c4601eb-6074-480c-b121-0c2bf730405a",
+    "Series Full Title": "Animal Fight Night",
+    "Release Date": "2013-10-06"
+  },
+  {
+    "Content ID": "35aad06a-4838-4441-bc26-c9ab03adc9bb",
+    "Series Full Title": "Animal Showdown",
+    "Release Date": "2018-09-04"
+  },
+  {
+    "Content ID": "6c7fa2ce-9ec5-416a-a1d2-dd07f477b09d",
+    "Series Full Title": "Animals Up Close with Bertie Gregory",
+    "Release Date": "2023-09-13"
+  },
+  {
+    "Content ID": "6927ff12-542c-4a66-acf7-1de9086e0a85",
+    "Series Full Title": "Ant-Man (Shorts)",
+    "Release Date": "2017-06-10"
+  },
+  {
+    "Content ID": "4e5445ae-4a38-48a6-8dbd-96decc997f9b",
+    "Series Full Title": "Apollo: Back To The Moon",
+    "Release Date": "2019-07-09"
+  },
+  {
+    "Content ID": "66a73196-5fd3-4c30-b2bc-2351c9ca5846",
+    "Series Full Title": "Arranged",
+    "Release Date": "2015-04-14"
+  },
+  {
+    "Content ID": "43d289f4-dc8a-47df-8ab8-abbf540bef22",
+    "Series Full Title": "Aruna’s Magic",
+    "Release Date": "2023-11-29"
+  },
+  {
+    "Content ID": "cc6e2e07-2b1a-4d07-99b0-f7a64f36a748",
+    "Series Full Title": "Atlas of Cursed Places",
+    "Release Date": "2020-12-01"
+  },
+  {
+    "Content ID": "5dee325a-33f2-4ace-8f0e-38bb82f58d52",
+    "Series Full Title": "Austin & Ally",
+    "Release Date": "2011-12-02"
+  },
+  {
+    "Content ID": "515cf736-bd38-467e-8efb-aa069e3a5b13",
+    "Series Full Title": "Avengers Assemble",
+    "Release Date": "2013-05-26"
+  },
+  {
+    "Content ID": "9f194a86-8d94-47ea-b212-cf0d8a4edcde",
+    "Series Full Title": "The Avengers: Earth's Mightiest Heroes",
+    "Release Date": "2010-10-20"
+  },
+  {
+    "Content ID": "ba75c694-3a3f-4bf7-8287-643bca366680",
+    "Series Full Title": "Avengers: Secret Wars (Shorts)",
+    "Release Date": "2017-06-02"
+  },
+  {
+    "Content ID": "b29cb3b9-5109-4672-a32d-91bd02b75ac2",
+    "Series Full Title": "The Avengers: United They Stand",
+    "Release Date": "1999-10-30"
+  },
+  {
+    "Content ID": "0c314f03-0f06-4d81-b94c-3827305df272",
+    "Series Full Title": "Awesome Animals",
+    "Release Date": "2017-04-13"
+  },
+  {
+    "Content ID": "ca3d21ef-b1eb-4fa4-ab03-4d6f6341d2a6",
+    "Series Full Title": "Baymax Dreams",
+    "Release Date": "2018-09-29"
+  },
+  {
+    "Content ID": "380d1a56-1cc5-41a2-b398-668ae4f3c961",
+    "Series Full Title": "Baymax!",
+    "Release Date": "2022-06-29"
+  },
+  {
+    "Content ID": "c19092f0-5535-4285-ac22-e70a288891b5",
+    "Series Full Title": "Bear in the Big Blue House",
+    "Release Date": "1997-10-20"
+  },
+  {
+    "Content ID": "a08d1d58-d699-4499-8da8-2f84de0428ec",
+    "Series Full Title": "The Beatles: Get Back",
+    "Release Date": "2021-11-25"
+  },
+  {
+    "Content ID": "4a7525d4-c1d9-48ae-8371-6688b7e62832",
+    "Series Full Title": "Becoming",
+    "Release Date": "2020-09-18"
+  },
+  {
+    "Content ID": "ad70ecba-cbb3-4b22-ab54-73c4bccbac75",
+    "Series Full Title": "Behind the Attraction",
+    "Release Date": "2021-07-21"
+  },
+  {
+    "Content ID": "d59ed5e9-df8e-4362-94e2-0014ef8c9859",
+    "Series Full Title": "Best Friends Whenever",
+    "Release Date": "2015-06-26"
+  },
+  {
+    "Content ID": "5c6d604a-d9ec-4314-b184-7c7299e6e070",
+    "Series Full Title": "Best in Bridal",
+    "Release Date": "2014-09-02"
+  },
+  {
+    "Content ID": "6a87424f-a0fb-45a3-89b7-fb0cd539c1db",
+    "Series Full Title": "Best Job Ever",
+    "Release Date": "2018-08-02"
+  }
+]
