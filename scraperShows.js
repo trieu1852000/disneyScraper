@@ -1,6 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
-require('dotenv').config()
+require('dotenv').config();
+
 // Function to generate a random sleep time between 1 second (1000ms) and 10 seconds (10000ms)
 function randomSleep() {
     return Math.floor(Math.random() * (10000 - 1000 + 1)) + 1000;
@@ -13,7 +14,6 @@ async function performScraping() {
 
     // Replace with your actual access token
     const accessToken = process.env.Disney_key;
-    
 
     try {
         for (let pageNum = 1; pageNum <= 1; pageNum++) {
@@ -41,11 +41,12 @@ async function performScraping() {
                                 const episodesData = await episodesResponse.json();
                                 let episodeDetails = episodesData.data.DmcEpisodes.videos.map(video => ({
                                     "Episode Number": video.episodeSequenceNumber,
-                                    "Episode Title": video.text.title.full.program.default.content
+                                    "Episode Title": video.text.title.full.program.default.content,
+                                    "Episode ID": video.contentId 
                                 }));
 
                                 seasonDetails.push({
-                                    "Season Number": i + 1, // Incremented index for human-readable season number
+                                    "Season Number": i + 1, 
                                     "Season ID": season.seasonId,
                                     "Episodes": episodeDetails
                                 });
@@ -54,8 +55,6 @@ async function performScraping() {
                         }
 
                         allShowDetails.push({
-                            // "Series Id": show.encodedSeriesId,
-                            // "Content ID": show.contentId,
                             "Series Full Title": show.text.title.full.series.default.content,
                             "Release Date": show.releases[0].releaseDate,
                             "Seasons": seasonDetails
