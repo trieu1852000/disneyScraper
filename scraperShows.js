@@ -7,19 +7,33 @@ function randomSleep() {
     return Math.floor(Math.random() * (10000 - 1000 + 1)) + 1000;
 }
 
-async function performScraping() {
+async function Init(outputLocation = "test") {
     const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
-    let allShowDetails = []; // This will hold details for all shows, seasons, and episodes
+    let allShowDetails = [];
 
     // Replace with your actual access token
     const accessToken = process.env.Disney_key;
 
     try {
+        // Get the main URL first to extract the setId
+        const mainUrl = 'https://disney.content.edge.bamgrid.com/svc/content/Collection/StandardCollection/version/6.1/region/US/audience/k-false,l-true/maturity/1830/language/en/contentClass/contentType/slug/series';
+        await page.setExtraHTTPHeaders({
+            'Authorization': `Bearer ${accessToken}`
+        });
+        let response = await page.goto(mainUrl, { waitUntil: 'networkidle0' });
+
+        if (!response.ok()) {
+            throw new Error(`Error fetching the main URL: ${response.statusText()}`);
+        }
+
+        let data = await response.json();
+        let setId = data.data.Collection.containers.find(container => container.set && container.set.text && container.set.text.title.full.set.default.content === "All Series A-Z").set.refId;
+        console.log(`Using Set ID: ${setId}`);
+
         for (let pageNum = 1; pageNum <= 1; pageNum++) {
-            const showsUrl = `https://disney.content.edge.bamgrid.com/svc/content/GenericSet/version/6.1/region/US/audience/k-false,l-true/maturity/1830/language/en/setId/53adf843-491b-40ae-9b46-bccbceed863b/pageSize/30/page/${pageNum}`;
-            await page.setExtraHTTPHeaders({ 'Authorization': `Bearer ${accessToken}` });
-            const response = await page.goto(showsUrl, { waitUntil: 'networkidle0' });
+            const showsUrl = `https://disney.content.edge.bamgrid.com/svc/content/GenericSet/version/6.1/region/US/audience/k-false,l-true/maturity/1830/language/en/setId/${setId}/pageSize/30/page/${pageNum}`;
+            response = await page.goto(showsUrl, { waitUntil: 'networkidle0' });
 
             if (response.ok()) {
                 const showsData = await response.json();
@@ -65,7 +79,7 @@ async function performScraping() {
         }
 
         // Save the combined data to a file
-        fs.writeFileSync('disneyShowDetails.json', JSON.stringify(allShowDetails, null, 4));
+        fs.writeFileSync(`${outputLocation}/disneyShowDetails.json`, JSON.stringify(allShowDetails, null, 4));
         console.log('All data has been saved.');
 
     } catch (error) {
@@ -75,4 +89,4 @@ async function performScraping() {
     }
 }
 
-performScraping();
+Init();
