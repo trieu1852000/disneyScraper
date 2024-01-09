@@ -15,7 +15,7 @@ async function Init(media, payload, outputLocation = "test") {
     if (fs.existsSync('disneyMovies.json')) {
         disneyMovies = payload; //JSON.parse(fs.readFileSync('disneyMovies.json', 'utf8'));
     }
-    
+
     const accessToken = process.env.Disney_key;
 
     try {
@@ -42,11 +42,31 @@ async function Init(media, payload, outputLocation = "test") {
                         items.forEach(item => {
                             let releaseDate = item.releases && item.releases.length > 0 ? item.releases[0].releaseDate : null;
                             let fullTitle = item.text && item.text.title && item.text.title.full && item.text.title.full.program && item.text.title.full.program.default ? item.text.title.full.program.default.content : "No title";
-                            disneyMovies.push({
+                            disneyMovies.push(
+                                JSON.stringify({
+                                "tmdb_id": "",
+                                "imdb_id": "",
                                 "Content ID": item.contentId,
-                                "Content Name": fullTitle,
-                                "Release Date": releaseDate
-                            });
+                                "movie_name": fullTitle,
+                                "Release Date": releaseDate,
+                                "source_id": 673,
+                                "source_type": "disney_plus-disney_plus-subscription",
+                                "origin_source:": "freecast",
+                                "region_id": "us",
+                                "A": `disneyplus://disneyplus.com/video/${item.contentId}`,
+                                "F": "",
+                                "I": `disneyplus://disneyplus.com/video/${item.contentId}`,
+                                "L": `{\"id\":\"com.disney.disneyplus-prod\",\"params\":{\"contentTarget\":\"page=media_player&contentId=${item.contentId}&contentType=Full&programType=movie&id=&type=movie&pid=UniversalSearch\"}}`,
+                                "N": "",
+                                "R": "",
+                                "S": "",
+                                "T": "",
+                                "W": `https://www.disneyplus.com/video/${item.contentId}`,
+                                "rental_cost_sd": null,
+                                "rental_cost_hd": null,
+                                "purchase_cost_sd": null,
+                                "purchase_cost_hd": null
+                            }));
                         });
                     } else {
                         console.error("Unexpected data structure:", data);
